@@ -1,0 +1,10 @@
+model_list:
+  deepseek-v4-flash:0:
+    api_keys:
+      - dap_SWD4T7rhdloTOfmw04hiZazS
+
+did:
+  did: did:key:z6MkkFTn7Jtydg8GjcVVFH7bPozvCb6GR5VW4zzFkQwjQ1it
+  key: a09f9add4de08e29db0677becccf479939b69df1395a497aa0c02028bb31b04d
+  safe_name: 0e9cd2e15d2b
+  type: ed25519
